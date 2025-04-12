@@ -1,0 +1,36 @@
+body {
+  font-family: Arial, sans-serif;
+  /* background-color:#000000; */
+  background: rgb(228, 221, 221);
+}
+
+p{
+  color:yellow;
+}
+
+/* color names */
+.sporty{
+  color: red;
+}
+
+/* hex values */
+.casual{
+  color:#ffffff;
+}
+
+.formal{
+  color: #2a7521;
+}
+
+
+
+.card{
+  /* rgba */
+  background-color:rgba(0,0,0,0.5);
+  /* HSL */
+  background-color:hsl(0,100%,50%);
+  /* HSLA */
+  background-color:hsla(0,100%,50%,0.5);
+}
+
+

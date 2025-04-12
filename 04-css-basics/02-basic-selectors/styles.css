@@ -1,0 +1,42 @@
+body {
+  font-family: "arial", sans-serif;
+  border:3px solid red;
+}
+
+/* type selector */
+
+h2 {
+  color: purple;
+  font-size: 30px;
+}
+
+a {
+  color: chocolate;
+
+  text-decoration: underline;
+}
+
+/* class selector */
+
+.sporty {
+  color: red;
+}
+
+/* multiple style */
+
+.sporty,
+.formal {
+  font-size: 40px;
+}
+/* id selector */
+
+#container {
+  max-width: 600px;
+  margin: 100px;
+  padding: 20px;
+}
+
+/* descendant style */
+#container p {
+  background-color: aqua;
+}
