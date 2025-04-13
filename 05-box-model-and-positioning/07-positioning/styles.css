@@ -1,0 +1,53 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.box{
+  width:200px;
+  height:200px;
+  background-color:lightgreen;
+  border:2px solid purple;
+  margin:10px;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+
+}
+
+.box-1{
+  position:static;
+  left: 300px;
+}
+
+.box-2{
+  position:relative;
+  left: 100px;
+  top:10px;
+}
+
+.box-3{
+  position:fixed;
+  top:0;
+  left:0;
+  z-index:2;
+}
+
+.box-4{
+  position:sticky;
+  top: 100px;
+}
+
+.box-5{
+  position:relative;
+  width:500px;
+  height:500px;
+  background-color:coral;
+  z-index:1;
+}
+
+.box-6{
+  position:absolute;
+  top:10px;
+  left:10px;
+  /* z-index:3; */
+}
