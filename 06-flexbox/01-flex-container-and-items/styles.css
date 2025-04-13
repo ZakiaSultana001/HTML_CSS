@@ -1,0 +1,22 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.flex-container{
+  background:grey;
+  display:flex;
+  flex-direction:row;
+  flex-wrap:wrap;
+  gap:15px;
+  row-gap:5px;
+}
+
+.flex-item{
+  width:200px;
+  height:200px;
+  background-color:orange;
+  border:2px solid black;
+  /* margin:10px; */
+
+}
+
