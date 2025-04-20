@@ -7,6 +7,8 @@ Live host link-1: https://lumina-creative-grid-zakia.netlify.app/
 
 Live host link-2: https://lumina-creative-zakia.netlify.app/
 
+![Alt text](https://github.com/ZakiaSultana001/Lumina-Creative/blob/426cd8594484fbe365b3cb8c58ddf237917121f7/HOME.png)
+
 ## Presentation-mini-website
 Live host link:
 
