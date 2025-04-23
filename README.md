@@ -23,10 +23,12 @@ Live host link-2: https://lumina-creative-zakia.netlify.app/
 
 ## Presentation-mini-website
 Live host link: https://presentation-website-zakia.netlify.app/
+
 ![image alt](https://github.com/ZakiaSultana001/HTML_CSS/blob/5ec5d25184d9b88e8b847d76ee2b109a4cada403/Presentation.png)
 
 ## Sticky-navbar
 Live host link: https://sticky-navbar-zakia.netlify.app/
+
 ![image alt](https://github.com/ZakiaSultana001/HTML_CSS/blob/5651a83359e6a3a16689bc8168d91fdec85b49f4/Sticky_nav1.jpeg)
 
 ## Bono-landing-form
