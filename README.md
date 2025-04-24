@@ -26,15 +26,17 @@ Live host link: https://presentation-website-zakia.netlify.app/
 
 ![image alt](https://github.com/ZakiaSultana001/HTML_CSS/blob/5ec5d25184d9b88e8b847d76ee2b109a4cada403/Presentation.png)
 
-## Sticky-navbar
-Live host link: https://sticky-navbar-zakia.netlify.app/
-
-![image alt](https://github.com/ZakiaSultana001/HTML_CSS/blob/5651a83359e6a3a16689bc8168d91fdec85b49f4/Sticky_nav1.jpeg)
 
 ## Bono-landing-form
 Live host link: https://landing-form-zakia.netlify.app/
 
 ![image alt](https://github.com/ZakiaSultana001/HTML_CSS/blob/5ec5d25184d9b88e8b847d76ee2b109a4cada403/Landing_Form.png)
+
+## Sticky-navbar
+Live host link: https://sticky-navbar-zakia.netlify.app/
+
+![image alt](https://github.com/ZakiaSultana001/HTML_CSS/blob/5651a83359e6a3a16689bc8168d91fdec85b49f4/Sticky_nav1.jpeg)
+
 
 
 
@@ -45,11 +47,16 @@ Live host link: https://landing-form-zakia.netlify.app/
 
 
 ## OTHER-DESIGNS
-![image alt](https://github.com/ZakiaSultana001/HTML_CSS/blob/54ecaf06fe2865e44af9ac2a625c0c1b6dbff3ee/Shoe%20Cart.jpeg)
 ![image alt](https://github.com/ZakiaSultana001/HTML_CSS/blob/54ecaf06fe2865e44af9ac2a625c0c1b6dbff3ee/price.png)
+
 ![image alt](https://github.com/ZakiaSultana001/HTML_CSS/blob/54ecaf06fe2865e44af9ac2a625c0c1b6dbff3ee/Sneaker%20Hut.png)
-![image alt](https://github.com/ZakiaSultana001/HTML_CSS/blob/54ecaf06fe2865e44af9ac2a625c0c1b6dbff3ee/freelancer-form.png)
+
 ![image alt](https://github.com/ZakiaSultana001/HTML_CSS/blob/54ecaf06fe2865e44af9ac2a625c0c1b6dbff3ee/layout.png)
+
+![image alt](https://github.com/ZakiaSultana001/HTML_CSS/blob/54ecaf06fe2865e44af9ac2a625c0c1b6dbff3ee/Shoe%20Cart.jpeg)
+
+![image alt](https://github.com/ZakiaSultana001/HTML_CSS/blob/54ecaf06fe2865e44af9ac2a625c0c1b6dbff3ee/freelancer-form.png)
+
 
 
 
